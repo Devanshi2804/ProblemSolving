@@ -1,7 +1,9 @@
 public class LinkedListPro {
     Node head;
 
-   public class Node{
+   public class Node
+   
+   {
         int data;
         Node next;
         Node(int data)
